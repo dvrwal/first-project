@@ -1,0 +1,22 @@
+body{
+    font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;}
+*{direction: ltr;}
+body{font-family: ;
+    margin:10% ;
+    background-color: black;}
+p{color: white;
+font-size: 50px;}
+.nav a{ 
+    color: rgb(250, 12, 12);
+    font-size: 50px;
+text-decoration: none;
+list-style-type: none;
+display: flex;
+    justify-content: center;
+display:inline-block;}
+.nav a:hover{cursor: pointer;
+background-color: rgb(212, 212, 212);
+ border-radius: 10px;
+transition:0.5s;}
